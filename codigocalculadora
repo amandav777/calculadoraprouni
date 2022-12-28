@@ -1,0 +1,17 @@
+renda = 0.0
+pessoas = 0.0
+salariomin = 1212
+
+pessoas = float(input('Quantas pessoas moram na sua casa? ' ))
+renda = float(input('Qual a renda total do núcleo familiar? '))
+
+percapita = (renda/pessoas)
+
+if percapita <= salariomin:
+  print('Você se qualifica para os requisitos do ProUni 100%.')
+
+if percapita <= salariomin*1.50:
+  print('Você se qualifica para os requisitos do ProUni 50%.')
+
+elif percapita >salariomin*1.50+0.1:
+  print('Você não se qualifica em nenhum critério do ProUni.')  
