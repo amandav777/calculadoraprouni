@@ -4,7 +4,7 @@ oi!
 essa foi uma calculadora que desenvolvi para simular o percentual de bolsa que cada candidato ao ProUni terá (ou não).
 codado em python pelo replit. 
 é meu primeiro projeto, então é provável que possua muitos erros - e eu adoraria aprender a como corrigi-los! você pode me corrigir se quiser.
-você pode obter informações sobre o ProUni e outros programas de incentivo universitário nos sites oficiais do Governo Brasileiro.
+você pode obter informações sobre o ProUni e outros programas de incentivo universitário nos sites oficiais do Governo Brasileiro. 
 
 
 --------------------------------------------------------------------------------------------------------
